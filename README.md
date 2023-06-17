@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hackerstore999
-- 👀 I’m interested in google developer and an ethical hacker
-- 🌱 I’m currently learning Java, Python
-- ✔️ I have learnt basics of C and C++
+- 👀 I’m interested in Google developer and an ethical hacker
+- 🌱 I’m currently learning <----------->
+- ✔️ I have learnt the basics of <-------------->
 - 💞️ I’m looking to collaborate with any reputed IT Company 
-- 📫 How to reach me You can reach at me by mailing me at deveshkumar32205@gmail.com
+- 📫 How to reach me You can reach me by mailing me at <------------------------>
 <!---
-hackerstore999/hackerstore999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hackerstore999/hackerstore999 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
