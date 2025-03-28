@@ -14,13 +14,13 @@
 
 
 ## 🌐 Socials:
-<h4>
+<h4 align="center">Follow me on social media</h4>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/devesh_kumar108/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hackerstore999/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hackerstoreofficial) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devesh.bhardwaj.786/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeveshK96588272)
-</h4>
+
 <!-- -  OLD Readme.md File
 👋 Hi, I’m @hackerstore999
 - 👀 I’m interested in Cyber Security and being an EC Engineer
