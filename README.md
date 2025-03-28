@@ -9,8 +9,8 @@
 🔭 I’m currently student of <b>ACEIT🎓</b>
 <br>👯 I’m looking to collaborate on <b>Open Source Projects</b>
 <br>🌱 I’m currently learning <b>EC Engineering</b>
-<br>⚡ Fun fact I love playing multiplayer games.</b>
-<br>📫 How to reach me You can reach me by mailing me at<b>deveshkumar32205@gmail.com</b> 
+<br>⚡ Fun fact I love playing <b>Multiplayer Games.</b>
+<br>📫 How to reach me You can reach me by mailing me at <b>deveshkumar32205@gmail.com</b> 
 
 
 <!-- - 👋 Hi, I’m @hackerstore999
