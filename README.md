@@ -2,9 +2,6 @@
 <h3 align="center">I'm interested in Cyber Security and being an EC Engineer</h3>
 
 
----
-
-
 # 💫 About Me:
 🔭 I’m currently student of <b>ACEIT🎓</b>
 <br>👯 I’m looking to collaborate on <b>Open Source Projects</b>
