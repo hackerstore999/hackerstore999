@@ -3,7 +3,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devrahul-2508&icon=8&color=6)](https://visitcount.itsvg.in)
+
 ---
 # 💫 About Me:
 🔭 I’m currently student of <b>ACEIT🎓</b>
