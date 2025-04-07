@@ -18,6 +18,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hackerstoreofficial)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devesh.bhardwaj.786/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeveshK96588272)
+[![Quora](https://img.shields.io/badge/Quora-%AA2200.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Devesh-Kumar-858)
+
 
 <!-- -  OLD Readme.md File
 👋 Hi, I’m @hackerstore999
