@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Devesh Kumar</h1>
-<h3 align="center">🚀 Cyber Security Enthusiast | EC Engineering Student | Open-Source Contributor</h3>
+<h3 align="center">🚀 B.Tech ECE Student | Data Science & Machine Learning Enthusiast | UI/UX Design | Open-Source Contributor</h3>
 
 ---
 
 ## 💫 About Me
-- 🎓 Student at **Arya College of Engineering & IT (ACEIT)**
-- 🔭 Passionate about **Cyber Security**, **Electronics**, and **Open Source**
-- 👯 Open to collaborating on **security, IoT & automation projects**
-- 🌱 Currently learning **EC Engineering & IoT Security**
-- ⚡ Fun fact: I love playing **multiplayer games** 🎮
-- 📫 Reach me at **deveshkumar32205@gmail.com** 
+I’m a disciplined and driven **Electronics & Communication Engineering** student passionate about solving problems through **data science**, **machine learning**, and **human-centered design**. With hands-on experience from **three+ internships** across UI/UX design, electronics testing, and data-driven projects, I bring a rare ability to bridge hardware and software solutions.
+
+I’ve led and contributed to academic and real-world projects using **Python, SQL, Pandas, TensorFlow, and Figma**, delivering prototypes and solutions that improved user experience, enhanced system performance, and met tight deadlines.
+
+My goal is to contribute to **innovative, high-impact projects** in data science, machine learning, or product design, while continuously expanding my skills in **predictive analytics, data visualization, and emerging AI tools**.
 
 ---
 
@@ -23,14 +22,11 @@
 
 ---
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 💻 Core Skills
+**Data Science & Machine Learning:** Python, SQL, Pandas, NumPy, TensorFlow, Scikit-learn, Predictive Analytics, Data Visualization  
+**UI/UX Design & Tools:** Figma, Wireframing, Prototyping, User Research, Design Thinking, MoSCoW Method  
+**Electronics & Hardware:** Embedded Systems, Electronics Testing, Quality Control, Calibration, MCU Testing  
+**Professional & Interpersonal:** Team Leadership, Project Management, Communication, Problem-Solving, Agile Collaboration
 
 ---
 
@@ -48,7 +44,11 @@
 
 ---
 
-## ✨ Fun Corner
-> “Code. Break. Fix. Learn. Repeat.”  
+## 🎓 Current Learning
+**The Skillians – Data Science & Machine Learning Trainee**   
+Industry-aligned program covering Python, SQL, Pandas, NumPy, TensorFlow, Scikit-learn, Generative AI, and Prompt Engineering. Completing 700+ exercises and 5+ professional-grade projects based on real-world problem statements.
 
 ---
+
+## ✨ Fun Corner
+> “Code. Break. Fix. Learn. Repeat.”  
