@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Devesh Kumar</h1>
-<h3 align="center">🚀 B.Tech ECE Student | Data Science & Machine Learning Enthusiast | UI/UX Design | Open-Source Contributor</h3>
+<h3 align="center">🚀 B.Tech ECE Student | Data Science & Machine Learning Enthusiast | Open-Source Contributor</h3>
 
 ---
 
