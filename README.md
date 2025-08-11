@@ -9,7 +9,7 @@
 - 👯 Open to collaborating on **security, IoT & automation projects**
 - 🌱 Currently learning **EC Engineering & IoT Security**
 - ⚡ Fun fact: I love playing **multiplayer games** 🎮
-- 📫 Reach me at **deveshkumar32205@gmail.com**
+- 📫 Reach me at **deveshkumar32205@gmail.com** 
 
 ---
 
